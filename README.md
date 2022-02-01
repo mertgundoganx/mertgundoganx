@@ -8,4 +8,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertgundoganx&hide=html,makefile,c%2B%2B&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mertgundoganx&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mertgundoganx&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)-->
