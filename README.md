@@ -6,7 +6,7 @@
 ### <div align="center">I'm Mert, a software developer 👨‍💻 working remotely at Doğuş Technology since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on Spring Boot and Angular  
+- 🔭 I’m currently working on Spring and Angular  
   
 
 - 🌱 I’m currently learning Rust  
