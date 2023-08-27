@@ -6,7 +6,7 @@
 ### <div align="center">I'm Mert, a software developer 👨‍💻 working remotely at Doğuş Technology since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on Spring and Angular  
+- 🔭 I’m currently working on Spring and ASP.NET  
   
 
 - 🌱 I’m currently learning Rust  
@@ -70,33 +70,9 @@
 </td></tr></table>  
 
 <br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://twitter.com/mertgundoganx" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/mertgundogan" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
   
 
 <br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
   
 
 <br/>  
